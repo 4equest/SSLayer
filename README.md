@@ -1,2 +1,2 @@
-# SSLayer-Client
+# SSLayer
 WIP project
